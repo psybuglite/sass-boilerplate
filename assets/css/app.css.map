@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "app.scss",
+        "tools/_tools-import.scss",
+        "base/_placeholders.scss",
+        "pages/_pages-import.scss",
+        "base/_mediaqueries.scss"
+    ],
+    "names": [],
+    "file": "app.css"
+}
